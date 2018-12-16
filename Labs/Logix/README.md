@@ -2,7 +2,7 @@
 ## Jennifer Perry
 
 ### Door Simulation Lab
-[Video: Door Simulation](./Logix/LogixPro-Door.mp4)  
+[Video: Door Simulation](./Logix/Compressed LogixPro-Door.mp4)  
 
 *Screenshots*  
 [Door Logic Part A](./Logix/DoorLogic.PNG)    
