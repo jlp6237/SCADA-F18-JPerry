@@ -3,11 +3,11 @@
 ## Jennifer Perry
 
 ### Modbus Assignment Videos   
-[Read](./Read.mp4)    
-[Write/Wireshark](./WriteWireshark.mp4)  
-[Nmap](./Nmap.mp4)  
-[Metasploit](./Metasploit.mp4)  
-[PythonAttackScript](./PythonAttackScript.mp4)  
+[Read](./Modbus-Read.mp4)    
+[Write/Wireshark](./Modbus-WriteWireshark.mp4)  
+[Nmap](./Modbus-Nmap.mp4)  
+[Metasploit](./Modbus-Metasploit.mp4)  
+[PythonAttackScript](./Modbus-PythonAttackScript.mp4)  
 
 
 **Analysis/Methodologies**  
