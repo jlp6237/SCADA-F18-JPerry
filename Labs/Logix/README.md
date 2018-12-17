@@ -2,7 +2,7 @@
 ## Jennifer Perry
 
 ### Door Simulation Lab
-[Video: Door Simulation](./Compressed LogixPro-Door.mp4)  
+[Video: Door Simulation](./LogixPro-Door.mp4)  
 
 *Screenshots*  
 [Door Logic Part A](./DoorLogic.PNG)    
@@ -10,7 +10,7 @@
 
 ### Silo Simulation Lab
 
-[Video: Silo Configuration A B & C](./LogixPro- SiloABC.mp4)  
+[Video: Silo Configuration A B & C](./LogixPro-SiloABC.mp4)  
 
 *Screenshots:*  
 [Silo Configuration A](./SiloA.PNG)  
